@@ -1,4 +1,4 @@
-enabled: true
+enabled: false
 webhook: ""
 embed-title: "**Anticheat Alert**"
 embed-color: "#E67E22"
